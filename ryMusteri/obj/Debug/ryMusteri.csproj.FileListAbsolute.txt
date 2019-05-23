@@ -1,0 +1,116 @@
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csprojAssemblyReference.cache
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.Properties.Resources.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriEkleForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriGirisForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriGuncelleForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriHareketForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriIslemForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriRaporForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriSatisForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunStokForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunStokHareketForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunTanimiForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriYeniKullaniciForm.resources
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csproj.GenerateResource.cache
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csproj.CoreCompileInputs.cache
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\ryMusteri.exe.config
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\ryMusteri.exe
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\ryMusteri.pdb
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.Shared.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\FlashControlV71.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\ShockwaveFlashObjects.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\bin\Debug\stdole.dll
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csproj.CopyComplete
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.exe
+D:\DERS\BIP2504\2019\UE\7.HAFTA\ACCESS\STARTED\MUSTERI\ryMusteri\obj\Debug\ryMusteri.pdb
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\ryMusteri.exe.config
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\ryMusteri.exe
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\ryMusteri.pdb
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.Shared.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\FlashControlV71.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\ShockwaveFlashObjects.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\VS\repos\MUSTERI\ryMusteri\bin\Debug\stdole.dll
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csprojAssemblyReference.cache
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.Properties.Resources.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriAnaForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriEkleForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriGuncelleForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriHareketForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriRaporForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriSatisForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunStokForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunStokHareketForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunTanimiForm.resources
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csproj.GenerateResource.cache
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csproj.CoreCompileInputs.cache
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.csproj.CopyComplete
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.exe
+C:\VS\repos\MUSTERI\ryMusteri\obj\Debug\ryMusteri.pdb
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\ryMusteri.exe.config
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\ryMusteri.exe
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\ryMusteri.pdb
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.Shared.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\FlashControlV71.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\ShockwaveFlashObjects.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\bin\Debug\stdole.dll
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.csprojAssemblyReference.cache
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.Properties.Resources.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriAnaForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriEkleForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriGuncelleForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriHareketForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriRaporForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriSatisForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunStokForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunStokHareketForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.ryMusteriUrunTanimiForm.resources
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.csproj.GenerateResource.cache
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.csproj.CoreCompileInputs.cache
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.csproj.CopyComplete
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.exe
+D:\DERS\BIP2504\2019\EXAM\MUSTERI\TEMP\MsSQL - LOCALDB\ryMusteri\obj\Debug\ryMusteri.pdb
